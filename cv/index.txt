@@ -55,12 +55,12 @@ f:I[4911,[],"AsyncMetadataOutlet"]
       root.lang = 'en';
       root.setAttribute('data-locale', 'en');
     }
-  0:{"P":null,"b":"HZAlse9PCsCQlpvAh1cay","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/975acee24f6be218.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":false,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Yunyao Zhang","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"关于我","type":"page","target":"about","href":"/"},{"title":"论文","type":"page","target":"publications","href":"/publications"},{"title":"奖项","type":"page","target":"awards","href":"/awards"},{"title":"服务","type":"page","target":"services","href":"/services"},{"title":"简历","type":"page","target":"cv","href":"/cv"}],"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"zh":"张云耀","en":"Yunyao Zhang"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"July 2, 2026","lastUpdatedByLocale":{"zh":"2026年7月2日","en":"July 2, 2026"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","8wi9D9IrJBp8w980F9XDb",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+  0:{"P":null,"b":"l8sHwk6mApqagyUAsv8LS","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/975acee24f6be218.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":false,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Yunyao Zhang","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"关于我","type":"page","target":"about","href":"/"},{"title":"论文","type":"page","target":"publications","href":"/publications"},{"title":"奖项","type":"page","target":"awards","href":"/awards"},{"title":"服务","type":"page","target":"services","href":"/services"},{"title":"简历","type":"page","target":"cv","href":"/cv"}],"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"zh":"张云耀","en":"Yunyao Zhang"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"July 2, 2026","lastUpdatedByLocale":{"zh":"2026年7月2日","en":"July 2, 2026"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","xM1OpnMMwRSz2Wn5HqweP",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
 14:"$Sreact.suspense"
 15:I[4911,[],"AsyncMetadata"]
 17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","178","static/chunks/178-595a94b9af1e67b5.js","325","static/chunks/325-6c31068943ad7ac3.js","182","static/chunks/app/%5Bslug%5D/page-a5dc32ef2c9a8a50.js"],"default"]
 b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
-18:Tf89,# 张云耀
+18:T13d6,# 张云耀
 
 ![张云耀](/b.jpg)
 
@@ -71,15 +71,15 @@ b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"
 - 主页：https://bladey1.github.io/
 - PDF 简历：[中文](/cv/cv-zh.pdf) | [English](/cv/cv-en.pdf)
 
-## 个人简介
+## 研究简介
 
 我目前是华中科技大学博士研究生，隶属于华中科技大学智能媒体计算与网络安全实验室。我的导师是 [于俊清](https://scholar.google.com/citations?user=_UjqBfcAAAAJ&hl=zh-CN) 和 [宋子恺](https://skyesong38.github.io/)。
 
-我的研究方向包括计算社会科学、神经符号推理与社交网络分析。
+我的研究涵盖社交内容理解、社交网络建模与基于大语言模型的社会模拟，主要采用神经符号推理和社交网络分析方法。
 
 ## 教育经历
 
-**华中科技大学**，博士生，*2024 - 至今*
+**华中科技大学**，网络空间安全专业博士生（直博），*2024 - 至今*
 
 - 智能媒体计算与网络安全实验室
 - 导师：[Junqing Yu](https://scholar.google.com/citations?user=_UjqBfcAAAAJ&hl=zh-CN) 和 [Zikai Song](https://skyesong38.github.io/)
@@ -90,43 +90,59 @@ b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"
 - 于 2024 年 6 月获得学士学位
 - 导师：[Bin Yuan](https://scholar.google.com/citations?hl=zh-CN&user=Tj3yBksAAAAJ&view_op=list_works&sortby=pubdate)
 
-## 研究方向
-
-- 计算社会科学
-- 神经符号推理
-- 社交网络分析
-
 ## 一作与共同一作论文
 
-- **Semantic-Aware Logical Reasoning via a Semiotic Framework**  
-  **Yunyao Zhang**, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, and Zikai Song.  
+### 社交内容理解
+
+- **Semantic-Aware Logical Reasoning via a Semiotic Framework**\
+  **Yunyao Zhang**, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, and Zikai Song.\
   *{red}ACL 2026 Main（CCF-A，Oral，前 3%）.* [论文](https://aclanthology.org/2026.acl-long.835/) | [DOI](https://doi.org/10.18653/v1/2026.acl-long.835)
 
-- **Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning**  
-  Xinglang Zhang*, **Yunyao Zhang***, ZeLiang Chen, Junqing Yu, Wei Yang, and Zikai Song.  
-  *{red}ACL 2026 Main（CCF-A）.* [论文](https://aclanthology.org/2026.acl-long.858/) | [DOI](https://doi.org/10.18653/v1/2026.acl-long.858)
+- **Semiotic logical hexagon theory for LLM logical reasoning**\
+  **Yunyao Zhang**\*, Xinglang Zhang\*, Zeliang Chen, Junqing Yu, and Zikai Song.\
+  *arXiv 预印本，2026 年*。[arXiv:2607.21933](https://arxiv.org/abs/2607.21933)
 
-- **GA-S^3: Comprehensive Social Network Simulation with Group Agents**  
-  **Yunyao Zhang**, Zikai Song, Hang Zhou, Wenfeng Ren, Yi-Ping Phoebe Chen, Junqing Yu, and Wei Yang.  
-  *{red}Findings of ACL 2025.* [论文](https://aclanthology.org/2025.findings-acl.468/)
-
-- **Coupling Macro Dynamics and Micro States for Long-Horizon Social Simulation**  
-  **Yunyao Zhang**, Yihao Ai, Zuocheng Ying, Qirui Mi, Junqing Yu, Wei Yang, and Zikai Song.  
-  *arXiv preprint, 2026.* [论文](https://arxiv.org/abs/2604.05516)
-
-- **IntervenSim: Intervention-Aware Social Network Simulation for Opinion Dynamics**  
-  **Yunyao Zhang**, Zuocheng Ying, Xinglang Zhang, Junqing Yu, Peng Fang, Xu Chen, Wei Yang, and Zikai Song.  
-  *arXiv preprint, 2026.* [论文](https://arxiv.org/abs/2604.06600)
-
-- **Seeing Further and Wider: Joint Spatio-Temporal Enlargement for Micro-Video Popularity Prediction**  
-  Dali Wang*, **Yunyao Zhang***, Junqing Yu, Yi-Ping Phoebe Chen, Chen Xu, and Zikai Song.  
-  *{red}ACM MM 2026（CCF-A）.* 第 9900–9909 页。[DOI](https://doi.org/10.1145/3767308.3835368)
-
-- **Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse**  
-  Zhenyan Zheng*, **Yunyao Zhang***, Junxi Sheng, Junqing Yu, and Zikai Song.  
+- **Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse**\
+  Zhenyan Zheng\*, **Yunyao Zhang**\*, Junxi Sheng, Junqing Yu, and Zikai Song.\
   *{red}EMNLP 2026 Main（CCF-B / CAAI-A，Oral，前 3%）.* 第 36109–36126 页。[ACL Anthology](https://aclanthology.org/2026.emnlp-main.1588/) | [DOI](https://doi.org/10.18653/2026.emnlp-main.1588)
 
+- **Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning**\
+  Xinglang Zhang\*, **Yunyao Zhang**\*, ZeLiang Chen, Junqing Yu, Wei Yang, and Zikai Song.\
+  *{red}ACL 2026 Main（CCF-A）.* [论文](https://aclanthology.org/2026.acl-long.858/) | [DOI](https://doi.org/10.18653/v1/2026.acl-long.858)
+
+- **Seeing Further and Wider: Joint Spatio-Temporal Enlargement for Micro-Video Popularity Prediction**\
+  Dali Wang\*, **Yunyao Zhang**\*, Junqing Yu, Yi-Ping Phoebe Chen, Chen Xu, and Zikai Song.\
+  *{red}ACM MM 2026（CCF-A）.* 第 9900–9909 页。[DOI](https://doi.org/10.1145/3767308.3835368)
+
+- **Rubrics Beyond Evaluation: Exploiting Rubric Structure in Reinforcement Learning**\
+  Yuxun Huang\*, **Yunyao Zhang**\*, ZeLiang Chen, Yi-Ping Phoebe Chen, Junqing Yu, and Zikai Song.\
+  *arXiv 预印本，2026 年*。[arXiv:2610.25850](https://arxiv.org/abs/2610.25850)
+
+### 社交网络建模
+
+- **GA-S^3: Comprehensive Social Network Simulation with Group Agents**\
+  **Yunyao Zhang**, Zikai Song, Hang Zhou, Wenfeng Ren, Yi-Ping Phoebe Chen, Junqing Yu, and Wei Yang.\
+  *{red}Findings of ACL 2025.* [论文](https://aclanthology.org/2025.findings-acl.468/)
+
+- **IntervenSim: Intervention-Aware Social Network Simulation for Opinion Dynamics**\
+  **Yunyao Zhang**, Zuocheng Ying, Xinglang Zhang, Junqing Yu, Peng Fang, Xu Chen, Wei Yang, and Zikai Song.\
+  *arXiv preprint, 2026.* [论文](https://arxiv.org/abs/2604.06600)
+
+### 社会模拟
+
+- **Coupling Macro Dynamics and Micro States for Long-Horizon Social Simulation**\
+  **Yunyao Zhang**, Yihao Ai, Zuocheng Ying, Qirui Mi, Junqing Yu, Wei Yang, and Zikai Song.\
+  *arXiv preprint, 2026.* [论文](https://arxiv.org/abs/2604.05516)
+
+- **Rethinking Social Simulation in Open-Population Systems: From Persistent Agents to Communication Processes**\
+  **Yunyao Zhang**\*, Yihao Ai\*, Boqi Xu, Zuocheng Ying, Junqing Yu, and Zikai Song.\
+  *arXiv 预印本，2026 年*。[arXiv:2610.37687](https://arxiv.org/abs/2610.37687) | [项目主页](https://ai4ss.github.io/OpenSim/)
+
 \* 表示共同一作。
+
+## 未来研究：社会治理
+
+探索可控社会模拟，用于干预方案设计与群体动力学的最优控制。
 
 ## 荣誉与奖项
 
@@ -138,8 +154,8 @@ b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"
 
 - **Oral 报告**，EMNLP 2026 Main，2026 年 10 月：《Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse》。
 - **博士生论坛报告**，首届中国网络空间安全大会（CCSC 2026），2026 年 9 月。
-- 担任 ACL、EMNLP、AAAI 与 ICLR 审稿人
-19:T10ce,# Yunyao Zhang
+- 担任 ACL Rolling Review（ARR，涵盖 ACL、EMNLP、NAACL）、AAAI 与 ICLR 审稿人
+19:T14f2,# Yunyao Zhang
 
 ![Yunyao Zhang](/b.jpg)
 
@@ -150,15 +166,15 @@ b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"
 - Homepage: https://bladey1.github.io/
 - PDF CV: [English](/cv/cv-en.pdf) | [中文](/cv/cv-zh.pdf)
 
-## Biography
+## Research Profile
 
 I am a PhD student at the Huazhong University of Science and Technology (HUST), affiliated with the Intelligent Media Computing and Cybersecurity Laboratory ([智能媒体计算与网络安全实验室](https://media.hust.edu.cn/)). My supervisors are [Junqing Yu](https://scholar.google.com/citations?user=_UjqBfcAAAAJ&hl=zh-CN) and [Zikai Song](https://skyesong38.github.io/).
 
-My research focuses on computational social science, neuro-symbolic reasoning, and social network analysis.
+My research spans social content understanding, social network modeling, and LLM-based social simulation, drawing on neuro-symbolic reasoning and social network analysis.
 
 ## Education
 
-**Huazhong University of Science and Technology**, PhD Student, *2024 - Present*
+**Huazhong University of Science and Technology**, PhD in Cybersecurity (direct entry), *2024 - Present*
 
 - Intelligent Media Computing and Cybersecurity Laboratory
 - Supervisors: [Junqing Yu](https://scholar.google.com/citations?user=_UjqBfcAAAAJ&hl=zh-CN) and [Zikai Song](https://skyesong38.github.io/)
@@ -169,43 +185,59 @@ My research focuses on computational social science, neuro-symbolic reasoning, a
 - Received bachelor's degree in June 2024
 - Supervisor: [Bin Yuan](https://scholar.google.com/citations?hl=zh-CN&user=Tj3yBksAAAAJ&view_op=list_works&sortby=pubdate)
 
-## Research Interests
-
-- Computational Social Science
-- Neuro-Symbolic Reasoning
-- Social Network Analysis
-
 ## First-Author and Equal-Contribution Publications
 
-- **Semantic-Aware Logical Reasoning via a Semiotic Framework**  
-  **Yunyao Zhang**, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, and Zikai Song.  
+### Social Content Understanding
+
+- **Semantic-Aware Logical Reasoning via a Semiotic Framework**\
+  **Yunyao Zhang**, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, and Zikai Song.\
   *{red}ACL 2026 Main (CCF-A, Oral, Top 3%).* [Paper](https://aclanthology.org/2026.acl-long.835/) | [DOI](https://doi.org/10.18653/v1/2026.acl-long.835)
 
-- **Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning**  
-  Xinglang Zhang*, **Yunyao Zhang***, ZeLiang Chen, Junqing Yu, Wei Yang, and Zikai Song.  
-  *{red}ACL 2026 Main (CCF-A).* [Paper](https://aclanthology.org/2026.acl-long.858/) | [DOI](https://doi.org/10.18653/v1/2026.acl-long.858)
+- **Semiotic logical hexagon theory for LLM logical reasoning**\
+  **Yunyao Zhang**\*, Xinglang Zhang\*, Zeliang Chen, Junqing Yu, and Zikai Song.\
+  *arXiv preprint, 2026.* [arXiv:2607.21933](https://arxiv.org/abs/2607.21933)
 
-- **GA-S^3: Comprehensive Social Network Simulation with Group Agents**  
-  **Yunyao Zhang**, Zikai Song, Hang Zhou, Wenfeng Ren, Yi-Ping Phoebe Chen, Junqing Yu, and Wei Yang.  
-  *{red}Findings of ACL 2025.* [Paper](https://aclanthology.org/2025.findings-acl.468/)
-
-- **Coupling Macro Dynamics and Micro States for Long-Horizon Social Simulation**  
-  **Yunyao Zhang**, Yihao Ai, Zuocheng Ying, Qirui Mi, Junqing Yu, Wei Yang, and Zikai Song.  
-  *arXiv preprint, 2026.* [Paper](https://arxiv.org/abs/2604.05516)
-
-- **IntervenSim: Intervention-Aware Social Network Simulation for Opinion Dynamics**  
-  **Yunyao Zhang**, Zuocheng Ying, Xinglang Zhang, Junqing Yu, Peng Fang, Xu Chen, Wei Yang, and Zikai Song.  
-  *arXiv preprint, 2026.* [Paper](https://arxiv.org/abs/2604.06600)
-
-- **Seeing Further and Wider: Joint Spatio-Temporal Enlargement for Micro-Video Popularity Prediction**  
-  Dali Wang*, **Yunyao Zhang***, Junqing Yu, Yi-Ping Phoebe Chen, Chen Xu, and Zikai Song.  
-  *{red}ACM MM 2026 (CCF-A).* pp. 9900–9909. [DOI](https://doi.org/10.1145/3767308.3835368)
-
-- **Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse**  
-  Zhenyan Zheng*, **Yunyao Zhang***, Junxi Sheng, Junqing Yu, and Zikai Song.  
+- **Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse**\
+  Zhenyan Zheng\*, **Yunyao Zhang**\*, Junxi Sheng, Junqing Yu, and Zikai Song.\
   *{red}EMNLP 2026 Main (CCF-B / CAAI-A, Oral, Top 3%).* pp. 36109–36126. [ACL Anthology](https://aclanthology.org/2026.emnlp-main.1588/) | [DOI](https://doi.org/10.18653/2026.emnlp-main.1588)
 
+- **Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning**\
+  Xinglang Zhang\*, **Yunyao Zhang**\*, ZeLiang Chen, Junqing Yu, Wei Yang, and Zikai Song.\
+  *{red}ACL 2026 Main (CCF-A).* [Paper](https://aclanthology.org/2026.acl-long.858/) | [DOI](https://doi.org/10.18653/v1/2026.acl-long.858)
+
+- **Seeing Further and Wider: Joint Spatio-Temporal Enlargement for Micro-Video Popularity Prediction**\
+  Dali Wang\*, **Yunyao Zhang**\*, Junqing Yu, Yi-Ping Phoebe Chen, Chen Xu, and Zikai Song.\
+  *{red}ACM MM 2026 (CCF-A).* pp. 9900–9909. [DOI](https://doi.org/10.1145/3767308.3835368)
+
+- **Rubrics Beyond Evaluation: Exploiting Rubric Structure in Reinforcement Learning**\
+  Yuxun Huang\*, **Yunyao Zhang**\*, ZeLiang Chen, Yi-Ping Phoebe Chen, Junqing Yu, and Zikai Song.\
+  *arXiv preprint, 2026.* [arXiv:2610.25850](https://arxiv.org/abs/2610.25850)
+
+### Social Network Modeling
+
+- **GA-S^3: Comprehensive Social Network Simulation with Group Agents**\
+  **Yunyao Zhang**, Zikai Song, Hang Zhou, Wenfeng Ren, Yi-Ping Phoebe Chen, Junqing Yu, and Wei Yang.\
+  *{red}Findings of ACL 2025.* [Paper](https://aclanthology.org/2025.findings-acl.468/)
+
+- **IntervenSim: Intervention-Aware Social Network Simulation for Opinion Dynamics**\
+  **Yunyao Zhang**, Zuocheng Ying, Xinglang Zhang, Junqing Yu, Peng Fang, Xu Chen, Wei Yang, and Zikai Song.\
+  *arXiv preprint, 2026.* [Paper](https://arxiv.org/abs/2604.06600)
+
+### Social Simulation
+
+- **Coupling Macro Dynamics and Micro States for Long-Horizon Social Simulation**\
+  **Yunyao Zhang**, Yihao Ai, Zuocheng Ying, Qirui Mi, Junqing Yu, Wei Yang, and Zikai Song.\
+  *arXiv preprint, 2026.* [Paper](https://arxiv.org/abs/2604.05516)
+
+- **Rethinking Social Simulation in Open-Population Systems: From Persistent Agents to Communication Processes**\
+  **Yunyao Zhang**\*, Yihao Ai\*, Boqi Xu, Zuocheng Ying, Junqing Yu, and Zikai Song.\
+  *arXiv preprint, 2026.* [arXiv:2610.37687](https://arxiv.org/abs/2610.37687) | [Project](https://ai4ss.github.io/OpenSim/)
+
 \* indicates equal contribution.
+
+## Future Research: Social Governance
+
+Controllable social simulation for intervention design and optimal control of collective dynamics.
 
 ## Honors and Awards
 
@@ -217,7 +249,7 @@ My research focuses on computational social science, neuro-symbolic reasoning, a
 
 - **Oral presentation**, EMNLP 2026 Main, October 2026: *Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse*.
 - **Doctoral forum talk**, inaugural China Cyber Security Congress (CCSC 2026), September 2026.
-- Reviewer for ACL, EMNLP, AAAI, and ICLR
+- Reviewer for ACL Rolling Review (ARR; ACL, EMNLP, NAACL), AAAI, and ICLR
 9:["$","$L17",null,{"dataByLocale":{"zh":{"type":"text","config":{"type":"text","title":"简历","source":"cv.md"},"content":"$18"},"en":{"type":"text","config":{"type":"text","title":"CV","source":"cv.md"},"content":"$19"}},"defaultLocale":"en"}]
 e:null
 12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
